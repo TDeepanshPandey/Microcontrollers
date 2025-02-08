@@ -1,4 +1,5 @@
 # Microcontrollers
+
 Learning about Microcontrollers
 
 - Embedded Systems: Microcontrollers are the heart of embedded systems. They are small, low-cost, low-power, self-contained computer designed to control a specific function. They are used in everyday devices like microwave ovens, washing machines, and cars. They are also used in industrial machines, medical devices, and scientific instruments.
@@ -45,3 +46,7 @@ decimal.
 
 ## Hexadecimal Numbers
 
+# Arduino
+The Arduino is a popular microcontroller board that is used by hobbyists, students, and professionals to build a wide range of projects. It is based on the Atmel AVR microcontroller and comes with a simple programming environment that allows you to write, compile, and upload code to the board.
+
+The difference between mircrocontroller is it runs at execution speed of 16MHz and has 32KB of flash memory, 2KB of SRAM, and 1KB of EEPROM. It is good for handling hardware low level task. While a microprocessor is a general-purpose processor that is used in computers and other devices. It runs at a much higher execution speed of 2 GHz and has more memory 8 GB and processing power than a microcontroller. It is good for high computation power tasks.
