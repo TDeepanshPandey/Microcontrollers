@@ -94,3 +94,29 @@ while (sensorValue < 100) {
 int sensorValues[10] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
 sensorValues[0] = 10;
 ```
+
+## Pins
+
+Arduino have two types of pins to control hardware components. One are digital pins with numbers directly and other are analog pins represented by starting letter A in front.
+
+### How to work with digital pins?
+
+First set digital PIN mode then OUTPUT then Write Digital (data to calculator) set value HIGH / LOW (BINARY 0 and 1 value).
+
+```c
+
+#define LED_PIN 12
+
+void setup() {
+  pinMode(LED_PIN, OUTPUT);
+  digitalWrite(LED_PIN, HIGH);
+  delay(3000);
+}
+
+void loop(){
+  digitalWrite(LED_PIN, LOW);
+  delay(500);
+  digitalWrite(LED_PIN, HIGH);
+  delay(500);
+}
+```

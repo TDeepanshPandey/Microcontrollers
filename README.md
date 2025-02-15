@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/d9585be0-a800-4e7a-9c42-e2fb31c12a87/project/299b9a16-5bc8-41cb-8d36-4aade32b5330.svg)](https://wakatime.com/badge/user/d9585be0-a800-4e7a-9c42-e2fb31c12a87/project/299b9a16-5bc8-41cb-8d36-4aade32b5330)
+
 # Microcontrollers
 
 Learning about Microcontrollers
